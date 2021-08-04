@@ -1,0 +1,9 @@
+pets:
+  test:
+    name: '&b&lTest pet'
+    valuehead: ''
+    ability: STRENGTH
+    value: 15
+    lores: 
+      - '&7Ability: &a%ability%'
+      - '%description%'

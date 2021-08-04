@@ -1,0 +1,8 @@
+main: me.ninjego.extendedpets.ExtendedPets
+name: ExtendedPets
+version: 1.0
+author: Ninjego
+
+commands:
+  pets:
+  pet: 
